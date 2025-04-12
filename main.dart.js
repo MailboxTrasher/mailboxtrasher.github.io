@@ -58126,7 +58126,7 @@ o.w=r*p}},
 $S:0}
 A.Zl.prototype={
 $2(a,b){var s=null
-return A.c([new A.qg(A.eO("Prorata M&T",s,s,s,s),s)],t.E)},
+return A.c([new A.qg(A.eO("Proratapp M&T \ud83d\udc97",s,s,s,s),s)],t.E)},
 $S:374}
 A.Zk.prototype={
 $0(){var s=$.D.N$.d.c.e
