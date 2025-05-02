@@ -58104,7 +58104,7 @@ return new A.w_(new A.lL(B.i4,s),new A.lL(B.i4,s),new A.lL(new A.bl("0.58",B.cd,
 A.w_.prototype={
 Sx(){this.ar(new A.Zj(this))},
 a_j(){this.ar(new A.Zk(this))},
-P(a){var s=this,r=null,q=t.E,p=A.c([A.d1(r,20,r),A.kf(A.a4W(s.d,new A.bV(r,r,r,r,r,r,r,B.a0),B.ve,"Montant \xe0 partager",A.dK("\u20ac ",r,r,r,r)),B.w,r,new A.bV(r,r,new A.bm(B.l,B.l,new A.c7(B.bk,0.5,B.I,-1),B.l),r,r,r,r,B.a0),r,r,new A.b6(16,12,16,12),r),A.d1(r,20,r),A.kf(A.a4W(s.e,new A.bV(r,r,r,r,r,r,r,B.a0),B.ve,"1500 - Somme restante",A.dK("\u20ac ",r,r,r,r)),B.w,r,new A.bV(r,r,new A.bm(B.l,B.l,new A.c7(B.bk,0.5,B.I,-1),B.l),r,r,r,r,B.a0),r,r,new A.b6(16,12,16,12),r),A.d1(r,20,r),A.yo(A.tA(A.c([A.yO(B.aA,r,A.dK("Calculer",r,r,A.dL(r,r,B.r,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.bj,B.dZ,r,r,s.gSw(),r,0.4),A.d1(r,r,10),A.yO(B.aA,r,A.dK("R\xe9initialiser",r,r,A.dL(r,r,B.r,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.xH,B.dZ,r,r,s.ga_i(),r,0.4)],q),B.Y,B.p7,B.ao,0),r,r),A.d1(r,20,r)],q),o=s.y
+P(a){var s=this,r=null,q=t.E,p=A.c([A.d1(r,20,r),A.kf(A.a4W(s.d,new A.bV(r,r,r,r,r,r,r,B.a0),B.ve,"Montant \xe0 partager",A.dK("\u20ac ",r,r,r,r)),B.w,r,new A.bV(r,r,new A.bm(B.l,B.l,new A.c7(B.bk,0.5,B.I,-1),B.l),r,r,r,r,B.a0),r,r,new A.b6(16,12,16,12),r),A.d1(r,20,r),A.kf(A.a4W(s.e,new A.bV(r,r,r,r,r,r,r,B.a0),B.ve,"1200 - Somme restante",A.dK("\u20ac ",r,r,r,r)),B.w,r,new A.bV(r,r,new A.bm(B.l,B.l,new A.c7(B.bk,0.5,B.I,-1),B.l),r,r,r,r,B.a0),r,r,new A.b6(16,12,16,12),r),A.d1(r,20,r),A.yo(A.tA(A.c([A.yO(B.aA,r,A.dK("Calculer",r,r,A.dL(r,r,B.r,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.bj,B.dZ,r,r,s.gSw(),r,0.4),A.d1(r,r,10),A.yO(B.aA,r,A.dK("R\xe9initialiser",r,r,A.dL(r,r,B.r,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),B.xH,B.dZ,r,r,s.ga_i(),r,0.4)],q),B.Y,B.p7,B.ao,0),r,r),A.d1(r,20,r)],q),o=s.y
 if(o.length!==0)p.push(A.dK(o,r,r,A.dL(r,r,B.jo,r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r))
 o=A.yb(10)
 p.push(A.kf(A.mG(A.c([A.tA(A.c([A.dK("Montant Thomas :",r,r,A.dL(r,r,r,r,r,r,r,r,r,r,r,16,r,r,B.b3,r,r,!0,r,r,r,r,r,r,r,r),r),A.dK(B.c.U(s.w,2)+" \u20ac",r,r,A.dL(r,r,B.bj,r,r,r,r,r,r,r,r,16,r,r,B.b3,r,r,!0,r,r,r,r,r,r,r,r),r)],q),B.Y,B.ez,B.ao,0),A.d1(r,20,r),A.tA(A.c([A.dK("Montant Mathilde :",r,r,A.dL(r,r,r,r,r,r,r,r,r,r,r,16,r,r,B.b3,r,r,!0,r,r,r,r,r,r,r,r),r),A.dK(B.c.U(s.x,2)+" \u20ac",r,r,A.dL(r,r,B.bj,r,r,r,r,r,r,r,r,16,r,r,B.b3,r,r,!0,r,r,r,r,r,r,r,r),r)],q),B.Y,B.ez,B.ao,0)],q),B.Y,B.ao),B.w,r,new A.bV(B.r,r,r,o,r,r,r,B.a0),r,r,B.fO,r))
@@ -58124,7 +58124,7 @@ p=A.rZ(n.f.a.a)
 if(p==null)p=0
 o=A.rZ(n.r.a.a)
 if(o==null)o=0
-if(!(r>0))if(q>0)r=1500-q
+if(!(r>0))if(q>0)r=1200-q
 if(r<=0)n.y="Entrer une valeur correcte."
 else if(p<0||p>1||o<0||o>1)n.y="Les valeurs des proratas doivent \xeatre entre 0 et 1."
 else if(B.c.U(p+o,2)!=="1.00")n.y="Les valeurs cumul\xe9es des proratas doivent \xeatre \xe9gales \xe0 1.0."
